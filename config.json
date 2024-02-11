@@ -23,5 +23,6 @@
   "services": [
     "mqtt:provide"
   ],
-  "stdin": true
+  "stdin": true,
+  "init": false
 }
